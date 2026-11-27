@@ -5,6 +5,5 @@
   <polygon points="80,165 80,95 92,95 102,118 112,95 124,95 124,165 112,165 112,125 102,145 92,125 92,165" fill="#111111"/>
   <path d="M180,101 H142 V130 H174 V159 H136" fill="none" stroke="#111111" stroke-width="12" stroke-linejoin="miter"/>
   <rect x="222" y="40" width="4" height="125" fill="url(#gold)"/>
-  <text x="252" y="112" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="800" font-size="70" letter-spacing="1" fill="#111111">EMS <tspan font-weight="300">Bau GmbH</tspan></text>
-  <text x="254" y="157" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="600" font-size="20.5" letter-spacing="5.2" fill="#6B5A2E">GENERALUNTERNEHMEN · ALLROUND</text>
+  <text x="252" y="127" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="800" font-size="70" letter-spacing="1" fill="#111111">EMS <tspan font-weight="300">Bau GmbH</tspan></text>
 </svg>
